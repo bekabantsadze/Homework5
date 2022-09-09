@@ -160,3 +160,12 @@
     line-height: 160%;
     color: #CBD0D3;
 }
+.footer-p{
+    position: relative;
+    font-size: 11px;
+    left: 700px;
+    bottom: 150px;
+}
+.footer{
+    display: flex;
+}
